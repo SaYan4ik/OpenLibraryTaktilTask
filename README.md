@@ -1,7 +1,8 @@
 # OpenLibraryTaktilTask
 
 # Main screen
-![Simulator Screenshot - iPhone 14 - 2023-04-17 at 13 05 14](https://user-images.githubusercontent.com/66200306/232454844-a2b2b28b-4fd7-4b7f-a895-842d50f35abb.png)
+![Simulator Screenshot - iPhone 14 - 2023-04-17 at 13 05 14](https://user-images.githubusercontent.com/66200306/232455191-3f7de94c-8013-46ab-b2cd-dc1b4ebeec5f.png)
+
 
 
 # Book information screen
