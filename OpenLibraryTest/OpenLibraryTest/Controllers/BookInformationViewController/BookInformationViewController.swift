@@ -24,7 +24,6 @@ class BookInformationViewController: UIViewController {
         super.viewDidLoad()
         setupNavigationBar()
         setupStyle()
-//        setData()
         getBookDescription()
     }
     

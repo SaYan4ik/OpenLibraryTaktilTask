@@ -65,18 +65,10 @@ extension BooksListViewController: UICollectionViewDelegate {
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         let nib = String(describing: BookInformationViewController.self)
         let bookInfoVC = BookInformationViewController(nibName: nib, bundle: nil)
-        
-        print(indexPath.item)
-        print(booksData[indexPath.item])
-        
         bookInfoVC.set(book: booksData[indexPath.item])
         
         navigationController?.pushViewController(bookInfoVC, animated: true)
     }
-
-    
-    
-    
 }
 
 extension BooksListViewController: UICollectionViewDelegateFlowLayout {
