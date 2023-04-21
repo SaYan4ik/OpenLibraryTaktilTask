@@ -19,4 +19,4 @@ Moya
 
 
 # Book information screen
-![Simulator Screenshot - iPhone 14 - 2023-04-17 at 13 05 14](https://user-images.githubusercontent.com/66200306/232455311-7ffc1316-6420-4c65-8824-eea55098933d.png)
+![Simulator Screenshot - iPhone 14 - 2023-04-17 at 13 05 20](https://user-images.githubusercontent.com/66200306/233309528-bafe6b01-42a5-4972-b68c-2a8dc8e0a774.png)
